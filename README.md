@@ -1,1 +1,12 @@
 # testTxt
+
+txt files:
+
+jsonRepo.txt    -> testJson               </br>
+jsonTag.txt     -> v0.1.0                 </br>
+jsonFolder.txt  -> test1                 </br>
+jsonName.txt    -> buildingsV1Test1.json  </br>
+
+Tags:
+
+v0.1.0          -> 21 gen 26              </br>
