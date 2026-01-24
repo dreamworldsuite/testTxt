@@ -3,8 +3,8 @@
 txt files:
 
 jsonRepo.txt    -> testJson               </br>
-jsonTag.txt     -> v0.1.0                 </br>
-jsonFolder.txt  -> test1                 </br>
+jsonTag.txt      -> v0.1.0                 </br>
+jsonFolder.txt  -> test1                  </br>
 jsonName.txt    -> buildingsV1Test1.json  </br>
 
 Tags:
