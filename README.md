@@ -2,10 +2,10 @@
 
 txt files:
 
-jsonRepo.txt    -> testJson &nbsp;        </br>
-jsonTag.txt     &nbsp; &nbsp;  -> v0.1.0  </br>
-jsonFolder.txt  -> test1                  </br>
-jsonName.txt    -> buildingsV1Test1.json  </br>
+jsonRepo.txt    &nbsp; -> testJson           </br>
+jsonTag.txt &nbsp; &nbsp; &nbsp;  -> v0.1.0  </br>
+jsonFolder.txt  -> test1                     </br>
+jsonName.txt    -> buildingsV1Test1.json     </br>
 
 Tags:
 
