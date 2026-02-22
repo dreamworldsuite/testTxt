@@ -3,11 +3,11 @@
 txt files:
 
 jsonRepo.txt    &nbsp; -> testJson           </br>
-jsonTag.txt &nbsp; &nbsp; -> v0.1.5          </br>
-jsonFolder.txt  -> test3                     </br>
-jsonName.txt    -> buildingsV1Test5.json     </br>
+jsonTag.txt &nbsp; &nbsp; -> v0.1.6          </br>
+jsonFolder.txt  -> test6                     </br>
+jsonName.txt    -> buildingsV1Test6.json     
 
 Tags:
 
-v0.1.5          -> 21 feb 26              </br>
+v0.1.6          -> 22 feb 26              
 
