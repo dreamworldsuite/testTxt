@@ -3,10 +3,10 @@
 txt files:
 
 jsonRepo.txt    &nbsp; -> testJson            </br>
-jsonTag.txt &nbsp; &nbsp; -> v0.1.77          </br>
-jsonFolder.txt  -> test77                     </br>
-jsonName.txt    -> buildingsV1Test77.json     
+jsonTag.txt &nbsp; &nbsp; -> v0.1.78          </br>
+jsonFolder.txt  -> test78                     </br>
+jsonName.txt    -> buildingsV1Test78.json     
 
 Tags:
-v0.1.77          -> 11 Marzo 26              
+v0.1.78         -> 12 Marzo 26              
 
